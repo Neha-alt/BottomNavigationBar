@@ -1,6 +1,6 @@
-# bottomnavigation_app
+# bottom navigation_app
 
-A new Flutter application.
+A new Flutter application with a beautiful bottom navigation bar.
 
 ## Getting Started
 
